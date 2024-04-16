@@ -24,4 +24,4 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lv1dev&show_icons=true&locale=en&layout=compact" alt="lv1dev" /></p>
 
 
-<p align="center"><img align="center" src="https://discordapp.com/users/452663373083967488" alt="discord_lv1dev" /></p>
+<p align="center"><img align="center" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="photoshop" /></p>
