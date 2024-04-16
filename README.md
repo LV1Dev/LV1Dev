@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm LV1 Dev</h1>
-<h3 align="center">A passionate keva checker</h3>
+<h3 align="center">A passionate philomath</h3>
 <h3 align="center">₋ₗᵥ₋ₗᵥ₋ₗᵥ₋ₗᵥ₋ₗᵥ₋ₗᵥ₋ₗᵥ₋ₗᵥ₋ₗᵥ₋ₗᵥ₋ₗᵥ₋ₗᵥ₋ₗᵥ₋ₗᵥ₋ₗᵥ₋ₗᵥ₋ₗᵥ₋ₗᵥ₋ₗᵥ₋ₗᵥ
 <h3 align="center">🔭 I’m currently working on a lot of things
 
