@@ -5,8 +5,7 @@
 
 <h3 align="center">📫 Reach me on discord: bitchimathotgetmelit
 <h3 align="center">₋ₗᵥ₋ₗᵥ₋ₗᵥ₋ₗᵥ₋ₗᵥ₋ₗᵥ₋ₗᵥ₋ₗᵥ₋ₗᵥ₋ₗᵥ₋ₗᵥ₋ₗᵥ₋ₗᵥ₋ₗᵥ₋ₗᵥ₋ₗᵥ₋ₗᵥ₋ₗᵥ₋ₗᵥ₋ₗᵥ
-<h3 align="center">Nobody likes me, but that's okay
-'Cause I don't like y'all anyway</h3>
+<h3 align="center">L'amor che move il sole e l'altre stelle</h3>
 <p align="center">
 </p>
 
