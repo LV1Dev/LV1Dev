@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a lot of things**
 
-- 📫 How to reach me on discord: **bitchimathotgetmelit**
+- 📫 Reach me on discord: **bitchimathotgetmelit**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
