@@ -18,4 +18,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/947px-Lua-Logo.svg.png" alt="lua" width="40" height="40"/> </p>
 
-<p align="center"><img src="https://i.ibb.co/ZxPKr4C/diamond-mascot.png" alt="diamond" width="180" height="180"></a></p>
+<p align="center"><img src="https://i.ibb.co/ZxPKr4C/diamond-mascot.png" alt="diamond_mascot" width="180" height="180"></a></p>
