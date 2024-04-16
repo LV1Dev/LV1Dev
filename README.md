@@ -19,4 +19,4 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/947px-Lua-Logo.svg.png" alt="lua" width="40" height="40"/> </p>
 
 <p align="center"><img src="https://i.ibb.co/ZxPKr4C/ddiamond-mascot.png" alt="diamond_mascot" width="180" height="180"></a></p>
-<h3 align="center">Hi! I'm Diamond Reborn Discord Bot. I'm currently under development!
+<h3 align="center">Hi! I'm Diamond Reborn Discord Bot. I'm currently under development!</h3>
