@@ -2,7 +2,7 @@
 <h3 align="center">A passionate philomath</h3>
 
 
-<p align="center"><img align="center" src="https://simpleicons.org/icons/discord.svg" alt="discord" width="75" height="75" /></p>
+<p align="center"><a href="https://discordapp.com/users/452663373083967488"><img align="center" src="https://simpleicons.org/icons/discord.svg" alt="discord" width="75" height="75" /></a></p>
 
 
 <h3 align="center">L'amor che move il sole e l'altre stelle</h3>
