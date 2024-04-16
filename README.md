@@ -16,6 +16,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/947px-Lua-Logo.svg.png" alt="lua" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/947px-Lua-Logo.svg.png" alt="lua" width="40" height="40"/> </p>
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/37xSRqB/diamond-dc-bot.png" alt="diamond-dc-bot" border="0"></a></p>
+<p align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/37xSRqB/diamond-dc-bot.png" alt="diamond" width="60" height="60"></a></p>
