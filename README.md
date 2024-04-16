@@ -2,7 +2,7 @@
 <h3 align="center">A passionate philomath</h3>
 
 
-<img src="https://simpleicons.org/icons/discord.svg" alt="Hear-No-Evil Monkey" width="75" height="75" />
+<p align="center"><img align="center" src="https://simpleicons.org/icons/discord.svg" alt="discord" width="75" height="75" /></p>
 
 
 <h3 align="center">L'amor che move il sole e l'altre stelle</h3>
