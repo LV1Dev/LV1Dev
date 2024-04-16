@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm LV1 Dev</h1>
 <h3 align="center">A passionate keva checker</h3>
 
-<align="center">- 🔭 I’m currently working on **a lot of things**
+<h2 align="center">- 🔭 I’m currently working on **a lot of things**
 
 - 📫 Reach me on discord: **bitchimathotgetmelit**
 
